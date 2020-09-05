@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript
 <!-- 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with React Js
+-     Founder of @thecodebean
 - 💬 Ask me about tech stuff
 - 📫 How to reach me: deepankyadav@ymail.com
 <!-- 😄 Pronouns: ...
