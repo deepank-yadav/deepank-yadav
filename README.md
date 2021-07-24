@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Spring and Hibernate
+- 🔭 I’m currently working on Spring & Hibernate
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with React Js
 - 💬 Ask me about tech stuff
