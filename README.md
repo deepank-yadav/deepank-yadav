@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- 👯 I’m looking to collaborate on ... -->
 
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/deepankyadav)
+- [GitHub](https://github.com/deepank-yadav)
