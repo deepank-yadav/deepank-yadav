@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/deepankyadav)
-- [GitHub](https://github.com/deepank-yadav)
+<!--- [LinkedIn](https://www.linkedin.com/in/deepankyadav)
+- [GitHub](https://github.com/deepank-yadav) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepankyadav)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepank-yadav)
