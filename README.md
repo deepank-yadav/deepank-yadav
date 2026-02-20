@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Senior Software Engineer** with a passion for writing clean, efficient, and maintainable code. I work on building robust backend systems and have hands-on experience across the full software development lifecycle — from design to deployment.
+I’m a **Senior Software Engineer** with a passion for writing clean, efficient, and maintainable code. I work on building robust backend systems and have hands-on experience across the full software development lifecycle  from design to deployment.
 
 - 🔭 Building with **Spring Boot & Hibernate** to deliver production-grade Java applications
 - 📐 Deepening expertise in **System Architecture & Design Patterns**
