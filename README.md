@@ -14,6 +14,9 @@
   <a href="https://x.com/deepank_yadav">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="https://medium.com/@deepankyadav">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
   <a href="https://medium.com/@thecodebean">
     <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
@@ -69,8 +72,8 @@ I’m a **Senior Software Engineer** with a passion for writing clean, efficient
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepank-yadav&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepank-yadav&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepank-yadav&show_icons=true&theme=dark&hide_border=true&count_private=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepank-yadav&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
