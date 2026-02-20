@@ -1,89 +1,102 @@
-<h1 align="center">Hi 👋, I'm Deepank Yadav</h1>
-<h3 align="center">Java Backend Engineer | System Design Enthusiast | Building Scalable Systems</h3>
+<h1 align="center">Hi there, I'm Deepank Yadav 👋</h1>
 
----
+<p align="center">
+  <em>Senior Software Engineer · Building scalable systems · Based in India 🇮🇳</em>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/deepankyadav">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/deepankyadav/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://x.com/deepank_yadav">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@deepankyadav">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:deepankkyadav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 💻 Backend-focused Software Engineer
-- 🏗️ Passionate about **System Design & Distributed Systems**
-- ⚙️ Strong in **Java, Spring Boot, Microservices Architecture**
-- ☁️ Experienced with Cloud & Containerized deployments
-- 🧠 Currently preparing for **Google SDE2**
-- 🎮 Built an interactive RPG-style portfolio website
-- ✍️ Writing technical content under **TheCodeBin**
+-----
 
----
+## 🧑‍💻 About Me
+
+I’m a **Senior Software Engineer** with a passion for writing clean, efficient, and maintainable code. I work on building robust backend systems and have hands-on experience across the full software development lifecycle — from design to deployment.
+
+- 🏢 Currently working at **[The Code Bean](https://github.com/thecodebean)**
+- 🔭 Building with **Spring Boot & Hibernate** to deliver production-grade Java applications
+- 📐 Deepening expertise in **System Architecture & Design Patterns**
+- 💬 Ask me about **Java, Spring, Microservices, or backend engineering**
+- 📫 Reach me at **deepankkyadav@gmail.com**
+
+-----
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Backend
-- Java
-- Spring Boot
-- Microservices
-- REST APIs
-- Swagger
-- Lombok
+**Languages & Frameworks**
 
-### 🗄️ Databases
-- MySQL
-- Cassandra
-- Redis
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-### 📡 Messaging & Streaming
-- Kafka
+**Infrastructure & DevOps**
 
-### ☁️ DevOps & Cloud
-- Docker
-- Kubernetes
-- CI/CD
-- Prometheus
-- Grafana
-- Kibana
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌐 Frontend
-- React
-- HTML
-- CSS
-- JavaScript
+**Databases & Tools**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+-----
 
-## 🎯 What I’m Currently Working On
+## 📈 Currently Exploring
 
-- Advanced **System Design**
-- High-Level & Low-Level Design mastery
-- Scalability patterns
-- Performance optimization
-- Distributed tracing & observability
+> *“Good architecture is not about fancy patterns — it’s about making the right tradeoffs.”*
 
----
+- 📐 **System Design & Architecture** — scalability, reliability, and distributed systems
+- 🧩 **Microservices patterns** — service mesh, event-driven design, API gateways
+- ☁️ **Cloud-native development** — container orchestration and deployment strategies
+
+-----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepank_Yadav&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepank-yadav&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepank-yadav&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepank_Yadav&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepank-yadav&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
+-----
 
-## 🌍 Connect With Me
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/deepankyadav/
-- 💻 GitHub: https://github.com/deepank-yadav
-- 🧠 LeetCode: deepankyadav
+Whether you want to talk tech, collaborate on a project, or just say hi — I’m always open to connecting!
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/deepankyadav">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/deepankyadav/">
+    <img src="https://img.shields.io/badge/Find%20Me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-## 💡 Philosophy
+-----
 
-> "Build systems that scale. Write code that lasts. Keep learning."
-
----
-
-⭐️ From Deepank Yadav
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=deepank-yadav&icon
