@@ -5,22 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepankyadav">
+  <a href="https://linkedin.com/in/deepankyadav" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/deepankyadav/">
+  <a href="https://leetcode.com/u/deepankyadav/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://x.com/deepank_yadav">
+  <a href="https://x.com/deepank_yadav" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://medium.com/@deepankyadav">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@thecodebean">
+  <a href="https://medium.com/@thecodebean" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-
 </p>
 
 -----
@@ -32,7 +28,7 @@ I’m a **Senior Software Engineer** with a passion for writing clean, efficient
 - 🔭 Building with **Spring Boot & Hibernate** to deliver production-grade Java applications
 - 📐 Deepening expertise in **System Architecture & Design Patterns**
 - 💬 Ask me about **Java, Spring, Microservices, or backend engineering**
-- ✍️ I write about engineering on **[The Code Bean Blog](https://medium.com/@thecodebean)**
+- ✍️ I write about engineering on **[The Code Bean Blog](https://medium.com/@thecodebean){:target=”_blank”}**
 
 -----
 
@@ -90,22 +86,22 @@ I’m a **Senior Software Engineer** with a passion for writing clean, efficient
 Whether you want to talk tech, collaborate on a project, or just say hi — I’m always open to connecting!
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepankyadav">
+  <a href="https://linkedin.com/in/deepankyadav" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/deepankyadav/">
+  <a href="https://leetcode.com/u/deepankyadav/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Find%20Me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://medium.com/@thecodebean">
+  <a href="https://medium.com/@thecodebean" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ## ☕️ Buy me a Coffee
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/deepank) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/deepank)
+<a href="https://buymeacoffee.com/deepank" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a> <a href="https://ko-fi.com/deepank" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 
 -----
 
