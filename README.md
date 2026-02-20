@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I'm Deepank👋<br>🔭 I’m currently working on Spring & Hibernate<br>🌱 I’m currently learning Javascript<br>🤔 I’m looking for help in React Js<br>💬 Ask me about tech stuff<br>📫 How to reach me: deepankkyadav@gmail.com
+Hi there I'm Deepank👋<br>🔭 I’m currently working on Spring & Hibernate<br>🌱 I’m currently learning Javascript<br>🤔 I’m looking for help in React Js<br>💬 Ask me about tech stuff<br>📫 How to reach me: deepankyadav@ymail.com
 
 
 ## 🌐 Socials:
