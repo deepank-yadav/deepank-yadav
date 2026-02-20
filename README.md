@@ -28,7 +28,7 @@ I’m a **Senior Software Engineer** with a passion for writing clean, efficient
 - 🔭 Building with **Spring Boot & Hibernate** to deliver production-grade Java applications
 - 📐 Deepening expertise in **System Architecture & Design Patterns**
 - 💬 Ask me about **Java, Spring, Microservices, or backend engineering**
-- ✍️ I write about engineering on **[The Code Bean Blog](https://medium.com/@thecodebean){:target=”_blank”}**
+- ✍️ I write about engineering on **[The Code Bean Blog](https://medium.com/@thecodebean)
 
 -----
 
