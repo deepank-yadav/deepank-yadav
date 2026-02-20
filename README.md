@@ -17,9 +17,10 @@
   <a href="https://medium.com/@deepankyadav">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:deepankkyadav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://medium.com/@thecodebean">
+    <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+
 </p>
 
 -----
@@ -28,11 +29,10 @@
 
 I’m a **Senior Software Engineer** with a passion for writing clean, efficient, and maintainable code. I work on building robust backend systems and have hands-on experience across the full software development lifecycle — from design to deployment.
 
-- 🏢 Currently working at **[The Code Bean](https://github.com/thecodebean)**
 - 🔭 Building with **Spring Boot & Hibernate** to deliver production-grade Java applications
 - 📐 Deepening expertise in **System Architecture & Design Patterns**
 - 💬 Ask me about **Java, Spring, Microservices, or backend engineering**
-- 📫 Reach me at **deepankkyadav@gmail.com**
+- ✍️ I write about engineering on **[The Code Bean Blog](https://medium.com/@thecodebean)**
 
 -----
 
@@ -93,6 +93,10 @@ Whether you want to talk tech, collaborate on a project, or just say hi — I’
   &nbsp;
   <a href="https://leetcode.com/u/deepankyadav/">
     <img src="https://img.shields.io/badge/Find%20Me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@thecodebean">
+    <img src="https://img.shields.io/badge/Read%20My%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
