@@ -1,22 +1,89 @@
-# 💫 About Me:
-Hi there I'm Deepank👋<br>🔭 I’m currently working on Spring & Hibernate<br>🌱 I’m currently learning Javascript<br>🤔 I’m looking for help in React Js<br>💬 Ask me about tech stuff<br>📫 How to reach me: deepankyadav@ymail.com
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepankyadav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepankyadav) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/deepankyadav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deepank_yadav) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepank-yadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepank-yadav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepank-yadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Deepank Yadav</h1>
+<h3 align="center">Java Backend Engineer | System Design Enthusiast | Building Scalable Systems</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepank-yadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/deepank) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/deepank) 
+## 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💻 Backend-focused Software Engineer
+- 🏗️ Passionate about **System Design & Distributed Systems**
+- ⚙️ Strong in **Java, Spring Boot, Microservices Architecture**
+- ☁️ Experienced with Cloud & Containerized deployments
+- 🧠 Currently preparing for **Google SDE2**
+- 🎮 Built an interactive RPG-style portfolio website
+- ✍️ Writing technical content under **TheCodeBin**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend
+- Java
+- Spring Boot
+- Microservices
+- REST APIs
+- Swagger
+- Lombok
+
+### 🗄️ Databases
+- MySQL
+- Cassandra
+- Redis
+
+### 📡 Messaging & Streaming
+- Kafka
+
+### ☁️ DevOps & Cloud
+- Docker
+- Kubernetes
+- CI/CD
+- Prometheus
+- Grafana
+- Kibana
+
+### 🌐 Frontend
+- React
+- HTML
+- CSS
+- JavaScript
+
+
+---
+
+## 🎯 What I’m Currently Working On
+
+- Advanced **System Design**
+- High-Level & Low-Level Design mastery
+- Scalability patterns
+- Performance optimization
+- Distributed tracing & observability
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepank_Yadav&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepank_Yadav&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/deepankyadav/
+- 💻 GitHub: https://github.com/deepank-yadav
+- 🧠 LeetCode: deepankyadav
+
+---
+
+## 💡 Philosophy
+
+> "Build systems that scale. Write code that lasts. Keep learning."
+
+---
+
+⭐️ From Deepank Yadav
