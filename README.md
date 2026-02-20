@@ -72,12 +72,15 @@ I’m a **Senior Software Engineer** with a passion for writing clean, efficient
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepank-yadav&show_icons=true&theme=dark&hide_border=true&count_private=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepank-yadav&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepank-yadav&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepank-yadav&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepank-yadav&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepank-yadav&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=deepank-yadav&theme=github-dark-blue&hide_border=true" />
 </p>
 
 -----
