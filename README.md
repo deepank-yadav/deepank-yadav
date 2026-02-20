@@ -14,9 +14,6 @@
   <a href="https://x.com/deepank_yadav">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://medium.com/@deepankyadav">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a href="https://medium.com/@thecodebean">
     <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
