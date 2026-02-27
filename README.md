@@ -50,6 +50,7 @@ I’m a **Senior Software Engineer** with a passion for writing clean, efficient
 **Databases & Tools**
 
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></span>
 
